@@ -6,7 +6,9 @@ The focus lies not only on finding correct solutions but also on optimizing algo
 Through intense practice and competition, individuals enhance their logical thinking, sharpen their coding skills, 
 and deepen their understanding of data structures and algorithms. Competitive programming serves as a platform for personal growth, fostering resilience, innovation,
 and a relentless pursuit of excellence in the world of programming.
-# the best competitive pages -1 leetcode
-                            -2 hackerrank
-                            -3 coderanker
+# the best competitive  website pages
+ # 1 leetcode
+ # 2 hackerrank
+ # 3 coderanker
+ 
                             
